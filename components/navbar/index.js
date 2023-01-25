@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 import usePath from "../../hooks/usePath";
 import { INFO } from "../../constants/author";
 
-const menuItems = ['home', 'experiences', 'contact'];
+export const menuItems = ['home', 'experiences', 'contact'];
 
 const Navbar = () => {
 
