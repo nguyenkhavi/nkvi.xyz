@@ -1,6 +1,6 @@
 export const INFO = {
     NAME: 'Kha-Vi Nguyen',
-    TITLE: 'Software Engineer / Full Stack Developer / Freelancer',
+    TITLE: 'Software Engineer / Full Stack Developer / Freelancer / Product Builder',
     EMAIL: 'nkvi.dev@gmail.com',
     NICKNAME: 'nkvi',
     LINKED_IN: 'https://www.linkedin.com/in/nguyenkhavi/',

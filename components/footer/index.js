@@ -7,7 +7,6 @@ const Footer = () => {
   return (
     <>
       <h2 className="head-text">Let&lsquo;s work together 🤝</h2>
-
       <div className="contact__info">
         <p>Mail me at 👇</p>
         <div className="email">
