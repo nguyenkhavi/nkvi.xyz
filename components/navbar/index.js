@@ -29,7 +29,7 @@ const Navbar = () => {
     <nav className={scolled ? 'app__navbar scrolled' : 'app__navbar'}>
 
       <a href='#home' className='app__navbar-logo'>
-        <p>{INFO.NICKNAME}</p>
+        <p>{INFO.NICKNAME} ({INFO.CHINA_NAME})</p>
       </a>
 
       <ul className='app__navbar-links'>

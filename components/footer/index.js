@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="email">
           <BsEnvelopeFill />
           <a
-            href={`mailto:${INFO.EMAIL}`}
+            href={`mailto:${INFO.EMAIL}?cc=${INFO.CC_EMAIL}`}
             target="_blank"
             rel="noreferrer"
           >
